@@ -12,6 +12,7 @@ end
 group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
+  gem 'database_cleaner'
 end
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
